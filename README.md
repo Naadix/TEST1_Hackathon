@@ -13,14 +13,13 @@
 ## Table of contents
 
 1. [Overview](#overview)
-2. [Repository structure](#repository-structure)
+2. [Dataset](#dataset)
 3. [Part 1 — Dry Bean classification (tabular data)](#part-1--dry-bean-classification-tabular-data)
 4. [Part 2 — Rock-Paper-Scissors (images)](#part-2--rock-paper-scissors-images)
 5. [How to run](#how-to-run)
 6. [Configuration flags](#configuration-flags)
 7. [Good practices used](#good-practices-used)
 8. [Tech stack](#tech-stack)
-9. [Author](#author)
 
 ---
 
