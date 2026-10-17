@@ -115,8 +115,8 @@ The dataset used for this project (including the image files and resources) is h
 ### Option B — Local Jupyter
 
 ```bash
-git clone https://github.com/Naadix/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Naadix/TEST1_Hackathon.git
+cd TEST1_Hackathon
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
